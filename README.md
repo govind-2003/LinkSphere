@@ -36,7 +36,7 @@ This project is a full-stack social media web application 🌐 that has been dev
 - Update/Edit Profile Page User Data.
 
 
-### **SignUp/Register Page**  :
+<!-- ### **SignUp/Register Page**  :
 
 ![SignUp](https://github.com/Faizan2911/Social-Media-Web-App-Mern-Stack-/assets/117813967/5b901509-12cc-4e6e-a4e7-ebc21b90a7f2)
 
@@ -82,5 +82,5 @@ This project is a full-stack social media web application 🌐 that has been dev
     - To install dependencies for frontend , run  `npm install` in `/client` folder.
     - To run frontend type command `npm start` in `/client` folder.
     - To install dependencies for backend, run  `npm install` in `/server` folder.
-    - To run backend type command `nodemon` in server folder.
+    - To run backend type command `nodemon` in server folder. -->
     
